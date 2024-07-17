@@ -1,6 +1,9 @@
 package com.human.ex01;
 
 public class Ex01 {
+    /**
+     * 구구단을 출력한다
+     */
     public void print(){
         int i = 2;
         System.out.println(i + " * 1 = " + ( i * 1 ));
